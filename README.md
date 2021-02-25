@@ -2,6 +2,7 @@
 
 ### Responsive Site built with Sass , helps to connect Developers all around the world , share projects and learn .
 
+### View my deployed app at :-  https://sahil9818336328.github.io/ConnectingDevs/
 
 # Technologies used: 
 
